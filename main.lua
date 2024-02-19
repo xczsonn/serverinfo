@@ -8,9 +8,9 @@
 Enabled = true
 
 -- Your servers port, IP, and password 
-ServerPort = 523
-ServerIP = "RohMooHyun.iptime.org"
-ServerPassword = "etm1545"
+ServerPort = 44
+ServerIP = "123g"
+ServerPassword = "e5"
 
 -----------------------------------------------
 --------- Don't touch down here ---------------
